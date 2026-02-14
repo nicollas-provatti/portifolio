@@ -33,7 +33,7 @@ function Home() {
                 <FaLinkedin />
               </a>
               <a
-                href="/curriculo-nicollas-provatti.pdf"
+                href="/curriculo-nicollasprovatti.pdf"
                 download="Curriculo-Nicollas-Provatti.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
